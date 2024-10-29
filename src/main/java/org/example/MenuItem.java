@@ -15,8 +15,11 @@ public class MenuItem {
     public String getName() {
         return name;
     }
-
+    /**
+     * hgvhcyghctftctc6ttfytfyfyt
+     */
     public double getPrice() {
+
         return price;
     }
 }
